@@ -43,9 +43,6 @@
 
 "Extracting and visualizing historical stock and revenue data for Tesla and GameStop."
 
-## Table of Contents
-
-
 
 
 
