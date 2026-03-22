@@ -12,8 +12,6 @@
 - Question 6: Plot GameStop Stock Graph
 
 
-# Tesla-x-GME-Stock-Data-Analysis-
-
 
   
 
