@@ -60,4 +60,4 @@
 
 ## Table of
 - Question 1: Use yfinance to Extract Stock 
-- Question 2: Use Webscraping to Extract 
+- Question 2: Use Webscraping to Ext
