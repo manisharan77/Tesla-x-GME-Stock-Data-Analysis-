@@ -65,4 +65,4 @@
 - Question 3: Use yfinance to Extract Stock Data (GameStop)
 - Question 4: Use Webscraping to Extract GME Revenue Data
 - Question 5: Plot Tesla Stock Gra
-- Question 6: Plot GameStop Sto
+- Question 6: Plot GameStop S
