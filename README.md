@@ -59,5 +59,5 @@
 "Extracting and visualizing historical stock and revenue data for Tesla and GameStop."
 
 ## Table of
-- Question 1: Use yfinance to Extract Stock 
+- Question 1: Use yfinance to Extract Sto
 - Question 2: Use Webscrapin
