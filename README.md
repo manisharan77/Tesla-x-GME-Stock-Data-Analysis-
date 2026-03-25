@@ -14,4 +14,4 @@
 
 
 nltk==3.
-scikit-lear
+scikit
