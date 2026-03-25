@@ -13,5 +13,5 @@
 
 
 
-nltk==3.8.1
+nltk==3.
 scikit-learn==1.
