@@ -10,3 +10,13 @@
 - Question 4: Use Webscraping to Extract GME Revenue Data
 - Question 5: Plot Tesla Stock Graph
 - Question 6: Plot GameStop Stock Graph
+
+
+
+nltk==3.8.1
+scikit-learn==1.3.0
+pandas==2.0.3
+numpy==1.24.3
+matplotlib==3.7.2
+seaborn==0.12.2
+
