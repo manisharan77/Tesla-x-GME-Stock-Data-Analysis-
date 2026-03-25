@@ -14,4 +14,4 @@
 
 
 nltk==3.
-scikit-learn==1.
+scikit-lear
