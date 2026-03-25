@@ -14,4 +14,4 @@
 
 nltk==3.8.1
 scikit-learn==1.3.0
-pandas==2.
+panda
