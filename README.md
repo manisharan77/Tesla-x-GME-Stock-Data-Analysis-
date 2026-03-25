@@ -13,4 +13,4 @@
 
 
 nltk==3.8.1
-scikit-lea
+scik
