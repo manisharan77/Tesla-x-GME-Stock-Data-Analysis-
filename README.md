@@ -13,5 +13,3 @@
 
 
 
-nltk==3.
-scikit
