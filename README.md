@@ -16,4 +16,4 @@
 
 - Question 1: Use yfinance to Extract Stock Data (Tesla)
 - Question 2: Use Webscraping to Extract Tesla Revenue Data
-- Question 3: Use yfinance to Extra
+- Question 3: Use yfinance to E
