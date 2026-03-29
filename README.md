@@ -12,7 +12,6 @@
 - Question 6: Plot GameStop Stock Graph
 
 
-http://127.0.0.1:5000
-http://127.0.0.1:5000
+http://127.0.0.1:500
 http://127.0.0.1:5000
 http://127.0.0.1:5000
