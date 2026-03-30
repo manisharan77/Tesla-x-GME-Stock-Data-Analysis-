@@ -24,7 +24,7 @@
 - Question 4: Use Webscraping to Extract GME Revenue Data
 - Question 5: Plot Tesla Stock Graph
 - Question 6: Plot GameStop Stock Gr
-# Tesla-x-GME-Stock-Data-Analysis-
+# Tesla-x-GME-Stock-Data-Ana
 
 "Extracting and visualizing historical stock and revenue ata for Tesla and GameStop."
 
