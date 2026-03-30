@@ -27,4 +27,4 @@
 
 "Extracting and visualizing historical stock and revenue ata for Tesla
 ## Table of Co
-- Question 1: Use yfinance to
+- Question 1: Use yfi
