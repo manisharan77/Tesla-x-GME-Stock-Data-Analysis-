@@ -29,4 +29,4 @@
 "Extracting and visualizing historical stock and revenue ata for Tesla
 ## Table of Co
 - Question 1: Use yfinance to Extract Stock Data (Tesla)
-- Question 2: Use Websc
+- Question 
