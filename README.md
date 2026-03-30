@@ -18,4 +18,4 @@
 
 ## Table of Co
 - Question 1: Use yfinance to Extract Stock Data (Tesla)
-- Question 2: Use Webscraping to Extract Tesla Reven
+- Question 2: Use Webscraping to Extrac
