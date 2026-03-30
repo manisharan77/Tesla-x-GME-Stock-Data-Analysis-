@@ -26,8 +26,7 @@
 - Question 6: Plot GameStop Stock Gr
 # Tesla-x-GME-Stock-Data-Ana
 
-"Extracting and visualizing historical stock and revenue ata for Tesla and GameStop."
-
+"Extracting and visualizing historical stock and revenue ata for Tesla
 ## Table of Co
 - Question 1: Use yfinance to Extract Stock Data (Tesla)
 - Question 2: Use Websc
