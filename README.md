@@ -25,4 +25,4 @@
 - Question 6: Plot GameStop Stock Gr
 # Tesla-x-GME-Stock-Data-Ana
 
-"Extracting and visualizing historical stock and revenue ata f
+"Extracting and visualizing historical stock and
