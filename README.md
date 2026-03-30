@@ -27,7 +27,7 @@
 
 # Tesla-x-GME-Stock-Data-Analysis-
 
-"Extracting and visualizing historical stock and revenue data for Tesla and GameStop."
+"Extracting and visualizing historical stock and revenue ata for Tesla and GameStop."
 
 ## Table of Contents
 
