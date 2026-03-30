@@ -26,5 +26,4 @@
 # Tesla-x-GME-Stock-Data-Ana
 
 "Extracting and visualizing historical stock and revenue ata for Tesla
-## Table of Co
-- Question 1: Use yfi
+## Tabl
