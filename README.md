@@ -18,4 +18,4 @@
 
 ## Table of Contents
 
-- Question 1: Use yfinance to Extract Stock
+- Question 1: Use yfinance to Extract
