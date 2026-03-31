@@ -18,5 +18,4 @@
 
 ## Table of Contents
 
-- Question 1: Use yfinance to Extract Stock Data (Tesla)
-- Que
+- Question 1: Use yfinance to Extract Stock Data (Tesla
