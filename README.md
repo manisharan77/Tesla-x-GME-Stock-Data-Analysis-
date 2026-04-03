@@ -31,4 +31,4 @@
 "Extracting and visualizing historical stock and revenue data for Tesla and GameStop."
 
 ## Table o
-- Question 1: Use yfinance
+- Question 1: Use
