@@ -32,4 +32,3 @@
 
 ## Table o
 - Question 1: Use yfinance to Extract Stock Data (Tesla)
-- Question 2: Use 
