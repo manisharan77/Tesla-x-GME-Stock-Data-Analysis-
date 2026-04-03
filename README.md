@@ -28,4 +28,4 @@
 
 # Tesla-x-GME-Stock-Data-Analysis-
 
-"Extracting and visualizing historical stoc
+"Extracting and visualizing historical
