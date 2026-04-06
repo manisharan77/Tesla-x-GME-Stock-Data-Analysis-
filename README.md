@@ -14,4 +14,4 @@
 
 
 
-jncddivdsoosnvkndvvnjadvvds,m vlkm ;cnv  svsdlkmv ;lm ;ksc ds
+jncddivdsoosnvkndvvnjadvvds,m vlkm ;cnv  svsdlkmv ;lm ;ksc
