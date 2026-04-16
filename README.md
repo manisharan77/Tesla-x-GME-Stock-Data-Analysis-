@@ -16,8 +16,3 @@
 
 nnn ..nnj
 iiihhyyb
-iijhhyujkijjj
-juhggvbji
-jhhhhkmnn
-kjiijnnnj
-jjjijjjjn   ij
