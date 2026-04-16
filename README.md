@@ -27,8 +27,3 @@ mkiijjjji
 iijnnnj
 kkijjjj
 kjiiijjjjjjjnnnkkkk
-kiiiiinnjkkkmmkkkjj
-iiijjjiijjjjjjujjj
-jiijjjjjkjijjjj
-kiiijjjjmkjkkkkjjj
-iiijjjj
