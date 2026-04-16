@@ -22,8 +22,4 @@ jhhhhkmnn
 kjiijnnnj
 jjjijjjjn   ijnnnj
 iijjnjj
-uuhhhyyujjnnn
-mkiijjjji
-iijnnnj
-kkijjjj
-kjiiijjjjjjjnnnkkkk
+
