@@ -28,6 +28,6 @@ iijnnnj
 kkijjjj
 kjiiijjjjjjjnnn
 kiiiiinnjkkkmm
-iiijjjii
+iiijjjiijjjjjj
 jiijjjjj
 kiiijjjj
