@@ -18,5 +18,5 @@ ghbjj
 bb
 iuhl
 uuh
-uu
+u
 yuhjj
